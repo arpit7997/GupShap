@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "715830521697",
+    "firebase_url": "https://practice-firebase-bbc40.firebaseio.com",
+    "project_id": "practice-firebase-bbc40",
+    "storage_bucket": "practice-firebase-bbc40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715830521697:android:4aef3e6ed7118f9d",
+        "android_client_info": {
+          "package_name": "com.codingblocks.prac_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715830521697-47gre1lqfco0bhi4gq159q58fduc8rfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGbstKqDrNUfgMP4H78BYlBM4hGsVtOvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
